@@ -54,7 +54,7 @@ body {
 .nav-link {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     color: black;
     margin: 10px;
     letter-spacing: 2px;
@@ -387,3 +387,5 @@ h1 {
     -o-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
 }
+
+
